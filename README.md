@@ -174,7 +174,7 @@ Achieve 94% accuracy for 48-hour generation forecasts by combining physics-based
 - Maintenance logs and equipment performance curves
 
 ### Hybrid Forecasting Model Code Implementation
-[PowerSync AI](https://github.com/Manas-Trivedi/powersync/hybrid-forecasting-model.py)
+[Hybrid Weather-based Forecasting](https://github.com/Manas-Trivedi/powersync/blob/main/hybrid-forecasting-model.py)
 
 ### Architecture Diagram
 ![Architecture Diagram for Hybrid Forecasting](<./images/hybrid-forecasting-model.png>)
@@ -223,7 +223,7 @@ Achieve 94% accuracy for 48-hour generation forecasts by combining physics-based
 Predict hourly demand for each of 5 zones with 91% accuracy by modeling industrial patterns, residential consumption, and seasonal variations.
 
 ### Technical Architecture Code
-[PowerSync AI](https://github.com/Manas-Trivedi/powersync/demand-forecast-model.py)
+[Regional Demand Forecasting](https://github.com/Manas-Trivedi/powersync/blob/main/demand-forecast-model.py)
 
 ### Architecture Diagram
 ![Architecture Diagram for Demand Forecasting](<./images/demand-forecast-model.png>)
@@ -255,7 +255,7 @@ Subject to:
 
 ### Technical Implementation
 
-[PowerSync AI](https://github.com/Manas-Trivedi/powersync/storage-optim-engine.py)
+[Storage Optimisation Engine](https://github.com/Manas-Trivedi/powersync/blob/main/storage-optim-engine.py)
 
 ### Architecture Diagram
 
@@ -308,7 +308,7 @@ Where:
 
 ### Implementation
 
-[PowerSync AI](https://github.com/Manas-Trivedi/powersync/dynamic-bidding-agent.py)
+[Dynamic Bidding Agent](https://github.com/Manas-Trivedi/powersync/blob/main/dynamic-bidding-agent.py)
 
 ### ER Model
 
